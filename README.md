@@ -4,6 +4,6 @@ AI-powered Ad Budget Optimizer built with Python, Streamlit, and Machine Learnin
 ### Dashboard
 ![Dashboard](assets/Dashboard.png)
 ### Revenue Simulator
-![Revenue_simulator](assets/Revenue_simulator.png)
+![Revenue._simulator](assets/Revenue._simulator.png)
 ### AI Insights
 ![AI_Insight](assets/AI_Insight.png)
